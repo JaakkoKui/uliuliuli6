@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+
+
+
+<title>Uliuliuli</title>
+
+
+
+</head>
+
+<body>
+
+<body style="background-image:url('green.jpg');">
+
+<h1 style="font-family:forte;color: #009999;text-align: center; font-size: 50px;"> <mark>Paras sivu ikinä!</mark></h1>
+<style>
+</style>
+<a href="file://z:/PC.html" style="color:orange; font-size: 24px;">>PC</a>
+<a href="file://z:/Näyttö.html" style="color:orange; font-size: 24px;">>Näyttö</a>
+<a href="file://z:/näppäimistö.html" style="color:orange; font-size: 24px;">>Näppäimistö</a>
+<a href="https://github.com/JaakkoKui/uliuliuli5/blob/master/hiiri.html" style="color:orange; font-size: 24px;">>Hiiri</a>
+<a href="file://z:/keskusyksikkö.html" style="color:orange; font-size: 24px;">>Keskusyksikkö</a>
+
+<ul  type="I" style="font-family:forte;color: #e65c00"> <b>
+  <li>Kuva</li>
+  <li>Kuva2</li>
+  <li>Kuva3</li> </b>
+</ul>
+<a href="https://diep.io/">
+  <img src="smiley.gif" alt="Naama" style="width:60px;height:60px;border:2;">
+</a>
+
+<img src="http://hitwebcounter.com/counter/counter.php?page=7098844&style=0010&nbdigits=5&type=page&initCount=0" title="free hits" Alt="free hits"   border="0" >
+<br/>
+
+
+<p><b>Nappi</b>:</p>
+<input type="button" onclick="alert('Uskalsit.');" value=Uskallatko? " />
+<div class="more-info">
+<iframe width="580" height="440"
+src="https://www.youtube.com/embed/Xao4ac7D0M4?autoplay=1" style="float:right";>
+</iframe>
+<p  style="font-family:forte;text-align: center;color: #009999; text-align: left; font-size: 30px;"> Hieno kuva.</p><br>
+<img src="metsä.jpg" alt="Kukkuu" style="width:600px;height:550px; ">
+<a href="https://www.metsa.fi//html/" style="color:Green; font-size: 150Px; font-family: broadway;float:right;"><b>Metsää</b></a><br>
+<p  style="align:centre;font-family:stencil;color:grey; text-align: left; font-size: 40px;"> <I><ins>TekstiäTekstiäTekstiäTekstiäTekstiäTekstiäTekstiä.<ins>
+<i></p>
+</body>
+</html>
