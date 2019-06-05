@@ -1,7 +1,10 @@
 body style={"background-image:url('clouds.jpg');">}
 
 
-
+a { font-size: 80px;
+color: white; 
+font-family: fixedsys;
+margin-left 50px;}
 
 
 h1 { font-size: 120px;
