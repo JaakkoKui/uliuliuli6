@@ -8,8 +8,9 @@ Paras2
 <Meta charset="utf8">
 </head>
 
-<body>
+<body onload="aloitus()">
 <p id="demo"></p>
+<h3 id="Moro"></h3>
 
 
 
@@ -43,9 +44,9 @@ Koodissa suoritetaan Date() funktiokutsu -->
 
 <link rel="stylesheet" type="text/css" href="mystyle2.css">
 
-	<table border="0">
+	<table align=left>
 		<tr>
-			<td colspan=3 bgcolor=lightgreen align=left id='disp'></td>
+			<td colspan=3 bgcolor=lightgreen align=right id='disp'></td>
 		</tr>
 		<tr>
 <td><button onclick="myfunction11()">1</button></td>
@@ -58,7 +59,7 @@ Koodissa suoritetaan Date() funktiokutsu -->
 <td><button onclick="myfunction16()">6</button></td>
 </tr>
 
-<h3 id="Moro"></h3>
+
 
 <tr>
 <td><button onclick="myfunction17()">7</button></td>
@@ -67,11 +68,41 @@ Koodissa suoritetaan Date() funktiokutsu -->
 </tr>
 <tr>
 <td><button onclick="myfunction00()">0</button></td>
+<td><button onclick="myfunction000()">Clear</button></td>
 </tr>
 </table>
 
 <h3 id="Moro"></h3>
 
+	
+		<table align=center>
+			<tr>
+				<td   colspan=100% bgcolor=lightgreen align=right id="disp2">
+				</td>
+			</tr>
+			<tr>
+				<td colspan="50%">
+					<button width="100%" onclick="add()">Lisää</button>
+				</td>
+				<td width="relative">
+					<button width="100%" onclick="sub()">Vähennä</button>
+				</td>
+			</tr>
+		</table>
+		<table align=right >
+			<tr>
+				<td width="relative" colspan="100%"  bgcolor=lightgreen align=center id="aika"></td>
+			</tr>
+			<tr>
+				<td width="relative" colspan="100%" align=center>
+					<button onclick="showWeekDay()">Päivä</button>
+					<button onclick="Hehee()">hehee</button>
+				</td>
+			</tr>
+		</table>
+		<h4><b>Muuttujiin tutustumista</b></h4>
+		
+		
 
 
 </body>
